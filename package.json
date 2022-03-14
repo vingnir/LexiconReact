@@ -1,0 +1,25 @@
+{
+  "name": "lexiconreact",
+  "version": "1.0.0",
+  "description": "React edu project for Lexicon IT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vingnir/LexiconReact.git"
+  },
+  "keywords": [
+    "React",
+    "JS",
+    ".NET",
+    "Lexicon"
+  ],
+  "author": "Johan Ivarsson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vingnir/LexiconReact/issues"
+  },
+  "homepage": "https://github.com/vingnir/LexiconReact#readme"
+}
